@@ -1388,7 +1388,6 @@ config CHECKPOINT_RESTORE
 
 config KALLSYMS
 	 bool "Load all symbols for debugging/ksymoops" if EXPERT
-	 default y
 	 help
 	   Say Y here to let the kernel print out symbolic crash information and
 	   symbolic stack backtraces. This increases the size of the kernel
