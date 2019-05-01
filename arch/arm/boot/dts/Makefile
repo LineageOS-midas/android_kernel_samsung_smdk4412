@@ -160,10 +160,8 @@ dtb-$(CONFIG_ARCH_EXYNOS3) += \
 	exynos3250-rinato.dtb
 dtb-$(CONFIG_ARCH_EXYNOS4) += \
 	exynos4412-i9300.dtb \
-	exynos4412-itop-elite.dtb \
 	exynos4412-n7100.dtb \
-	exynos4412-smdk4412.dtb \
-	exynos4412-tiny4412.dtb
+	exynos4412-smdk4412.dtb
 dtb-$(CONFIG_ARCH_EXYNOS5) += \
 	exynos5250-arndale.dtb \
 	exynos5250-smdk5250.dtb \
